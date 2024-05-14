@@ -1,7 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Rionnach Maoim</title>
+        <title>Tags - 标签 - Mia&#39;s Blog</title>
         <link>https://RionnachMaoim.github.io/tags/</link>
-        <description>Tags - Tag - Rionnach Maoim</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://RionnachMaoim.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - 标签 - Mia&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Vicky_21852@126.com (Mia)</managingEditor>
+            <webMaster>Vicky_21852@126.com (Mia)</webMaster><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://RionnachMaoim.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Tag-A</title>
+    <link>https://RionnachMaoim.github.io/tags/tag-a/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Mia</author>
+    <guid>https://RionnachMaoim.github.io/tags/tag-a/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Tag-B</title>
+    <link>https://RionnachMaoim.github.io/tags/tag-b/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Mia</author>
+    <guid>https://RionnachMaoim.github.io/tags/tag-b/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mia&#39;s Blog</title>
+        <link>https://RionnachMaoim.github.io/en/</link>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Vicky_21852@126.com (Mia)</managingEditor>
+            <webMaster>Vicky_21852@126.com (Mia)</webMaster><lastBuildDate>Sun, 12 May 2024 11:08:27 &#43;0800</lastBuildDate>
+            <atom:link href="https://RionnachMaoim.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Habit Loop</title>
+    <link>https://RionnachMaoim.github.io/en/posts/habit_loop/</link>
+    <pubDate>Sun, 12 May 2024 11:08:27 &#43;0800</pubDate>
+    <author>Mia</author>
+    <guid>https://RionnachMaoim.github.io/en/posts/habit_loop/</guid>
+    <description><![CDATA[Basic Idea The Habit Loop: cue, routine, reward. 奖赏要能激发出渴求（多巴胺分泌）。 习惯形成：通过重复，进行组块化。 习惯一旦形成，就由基底核接管。 缩短习惯的回路，更容易形成稳]]></description>
+</item>
+</channel>
+</rss>

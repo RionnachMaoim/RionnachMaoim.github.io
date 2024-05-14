@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cat-A - 分类 - Mia&#39;s Blog</title>
+        <link>https://RionnachMaoim.github.io/categories/cat-a/</link>
+        <description>Cat-A - 分类 - Mia&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Vicky_21852@126.com (Mia)</managingEditor>
+            <webMaster>Vicky_21852@126.com (Mia)</webMaster><lastBuildDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://RionnachMaoim.github.io/categories/cat-a/" rel="self" type="application/rss+xml" /><item>
+    <title>My Template</title>
+    <link>https://RionnachMaoim.github.io/posts/template/</link>
+    <pubDate>Wed, 04 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Mia</author>
+    <guid>https://RionnachMaoim.github.io/posts/template/</guid>
+    <description><![CDATA[数学公式 行内公式: $c = \pm\sqrt{a^2 + b^2}$ 和 \(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\) 公式块: $$ c = \pm\sqrt{a^2 + b^2} $$ \[ f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \] \begin{equation*} \rho \frac{\mathrm{D} \mathbf{v}}{\mathrm{D} t}=\nabla \cdot \mathbb{P}+\rho \mathbf{f} \end{equation*} \begin{equation} \mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots \end{equation} \begin{align} a&amp;=b+c \\ d+e&amp;=f \end{align} \begin{alignat}{2} 10&amp;x+&amp;3&amp;y = 2 \\ 3&amp;x+&amp;13&amp;y]]></description>
+</item>
+</channel>
+</rss>
