@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Development - 分类 - Mia&#39;s Blog</title>
-        <link>http://localhost:1313/categories/Development/</link>
-        <description>Development - 分类 - Mia&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Vicky_21852@126.com (Mia)</managingEditor>
-            <webMaster>Vicky_21852@126.com (Mia)</webMaster><atom:link href="http://localhost:1313/categories/Development/" rel="self" type="application/rss+xml" /></channel>
-</rss>
